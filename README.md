@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/laveenas372-spec/Python/tree/main/0200-number-of-islands/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/laveenas372-spec/Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/laveenas372-spec/Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/laveenas372-spec/Python/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/laveenas372-spec/Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/laveenas372-spec/Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/laveenas372-spec/Python/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/laveenas372-spec/Python/tree/main/0200-number-of-islands/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/laveenas372-spec/Python/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/laveenas372-spec/Python/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/laveenas372-spec/Python/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/laveenas372-spec/Python/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 <!---LeetCode Topics End-->
