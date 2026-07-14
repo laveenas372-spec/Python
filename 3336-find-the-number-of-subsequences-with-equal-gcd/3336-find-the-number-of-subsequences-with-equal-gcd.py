@@ -1,0 +1,42 @@
+
+
+class Solution(object):
+    def gcd(self, a, b):
+        while b:
+            a, b = b, a % b
+        return a
+
+    def subsequencePairCount(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        MOD = 10**9 + 7
+        MAX_GCD = 200
+
+        dp = [[0] * (MAX_GCD + 1) for _ in range(MAX_GCD + 1)]
+        dp[0][0] = 1
+
+        for x in nums:
+            ndp = [row[:] for row in dp]
+
+            for g1 in range(MAX_GCD + 1):
+                for g2 in range(MAX_GCD + 1):
+
+                    ways = dp[g1][g2]
+                    if ways == 0:
+                        continue
+
+                    ng1 = x if g1 == 0 else self.gcd(g1, x)
+                    ndp[ng1][g2] = (ndp[ng1][g2] + ways) % MOD
+
+                    ng2 = x if g2 == 0 else self.gcd(g2, x)
+                    ndp[g1][ng2] = (ndp[g1][ng2] + ways) % MOD
+
+            dp = ndp
+
+        ans = 0
+        for g in range(1, MAX_GCD + 1):
+            ans = (ans + dp[g][g]) % MOD
+
+        return ans
