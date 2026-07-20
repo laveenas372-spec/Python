@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/laveenas372-spec/Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/laveenas372-spec/Python/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/laveenas372-spec/Python/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1260-shift-2d-grid](https://github.com/laveenas372-spec/Python/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/laveenas372-spec/Python/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/laveenas372-spec/Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/laveenas372-spec/Python/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/laveenas372-spec/Python/tree/main/0200-number-of-islands/) | Medium |
+| [1260-shift-2d-grid](https://github.com/laveenas372-spec/Python/tree/main/1260-shift-2d-grid/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/laveenas372-spec/Python/tree/main/1260-shift-2d-grid/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/laveenas372-spec/Python/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
