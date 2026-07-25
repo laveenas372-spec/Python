@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/laveenas372-spec/Python/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/laveenas372-spec/Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/laveenas372-spec/Python/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3536-maximum-product-of-two-digits](https://github.com/laveenas372-spec/Python/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/laveenas372-spec/Python/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/laveenas372-spec/Python/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/laveenas372-spec/Python/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/laveenas372-spec/Python/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/laveenas372-spec/Python/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/laveenas372-spec/Python/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/laveenas372-spec/Python/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
