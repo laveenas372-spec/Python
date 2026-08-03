@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/laveenas372-spec/Python/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/laveenas372-spec/Python/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/laveenas372-spec/Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1406-stone-game-iii](https://github.com/laveenas372-spec/Python/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/laveenas372-spec/Python/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/laveenas372-spec/Python/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/laveenas372-spec/Python/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/laveenas372-spec/Python/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0486-predict-the-winner](https://github.com/laveenas372-spec/Python/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/laveenas372-spec/Python/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/laveenas372-spec/Python/tree/main/1406-stone-game-iii/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/laveenas372-spec/Python/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/laveenas372-spec/Python/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Binary Search
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/laveenas372-spec/Python/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/laveenas372-spec/Python/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/laveenas372-spec/Python/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/laveenas372-spec/Python/tree/main/1406-stone-game-iii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/laveenas372-spec/Python/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/laveenas372-spec/Python/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/laveenas372-spec/Python/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -203,4 +206,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/laveenas372-spec/Python/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/laveenas372-spec/Python/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/laveenas372-spec/Python/tree/main/1406-stone-game-iii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/laveenas372-spec/Python/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/laveenas372-spec/Python/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
