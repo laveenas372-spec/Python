@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/laveenas372-spec/Python/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/laveenas372-spec/Python/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/laveenas372-spec/Python/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1140-stone-game-ii](https://github.com/laveenas372-spec/Python/tree/main/1140-stone-game-ii/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/laveenas372-spec/Python/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1260-shift-2d-grid](https://github.com/laveenas372-spec/Python/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/laveenas372-spec/Python/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/laveenas372-spec/Python/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0486-predict-the-winner](https://github.com/laveenas372-spec/Python/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/laveenas372-spec/Python/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/laveenas372-spec/Python/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/laveenas372-spec/Python/tree/main/1406-stone-game-iii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/laveenas372-spec/Python/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/laveenas372-spec/Python/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/laveenas372-spec/Python/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/laveenas372-spec/Python/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/laveenas372-spec/Python/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/laveenas372-spec/Python/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/laveenas372-spec/Python/tree/main/1406-stone-game-iii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/laveenas372-spec/Python/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/laveenas372-spec/Python/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/laveenas372-spec/Python/tree/main/1140-stone-game-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/laveenas372-spec/Python/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -218,13 +222,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/laveenas372-spec/Python/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/laveenas372-spec/Python/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/laveenas372-spec/Python/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/laveenas372-spec/Python/tree/main/1406-stone-game-iii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/laveenas372-spec/Python/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/laveenas372-spec/Python/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/laveenas372-spec/Python/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/laveenas372-spec/Python/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
