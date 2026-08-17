@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/laveenas372-spec/Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/laveenas372-spec/Python/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/laveenas372-spec/Python/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1563-stone-game-v](https://github.com/laveenas372-spec/Python/tree/main/1563-stone-game-v/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/laveenas372-spec/Python/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/laveenas372-spec/Python/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/laveenas372-spec/Python/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/laveenas372-spec/Python/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/laveenas372-spec/Python/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/laveenas372-spec/Python/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/laveenas372-spec/Python/tree/main/1563-stone-game-v/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/laveenas372-spec/Python/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/laveenas372-spec/Python/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/laveenas372-spec/Python/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/laveenas372-spec/Python/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/laveenas372-spec/Python/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/laveenas372-spec/Python/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/laveenas372-spec/Python/tree/main/1563-stone-game-v/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/laveenas372-spec/Python/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/laveenas372-spec/Python/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/laveenas372-spec/Python/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/laveenas372-spec/Python/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/laveenas372-spec/Python/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/laveenas372-spec/Python/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/laveenas372-spec/Python/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/laveenas372-spec/Python/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
