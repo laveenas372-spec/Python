@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/laveenas372-spec/Python/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/laveenas372-spec/Python/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/laveenas372-spec/Python/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/laveenas372-spec/Python/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/laveenas372-spec/Python/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/laveenas372-spec/Python/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/laveenas372-spec/Python/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/laveenas372-spec/Python/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/laveenas372-spec/Python/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/laveenas372-spec/Python/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/laveenas372-spec/Python/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/laveenas372-spec/Python/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/laveenas372-spec/Python/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/laveenas372-spec/Python/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/laveenas372-spec/Python/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/laveenas372-spec/Python/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/laveenas372-spec/Python/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/laveenas372-spec/Python/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/laveenas372-spec/Python/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/laveenas372-spec/Python/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/laveenas372-spec/Python/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/laveenas372-spec/Python/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/laveenas372-spec/Python/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/laveenas372-spec/Python/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/laveenas372-spec/Python/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/laveenas372-spec/Python/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/laveenas372-spec/Python/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/laveenas372-spec/Python/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -204,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/laveenas372-spec/Python/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/laveenas372-spec/Python/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/laveenas372-spec/Python/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Prefix Sum
