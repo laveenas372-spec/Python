@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/laveenas372-spec/Python/tree/main/1260-shift-2d-grid/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/laveenas372-spec/Python/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/laveenas372-spec/Python/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/laveenas372-spec/Python/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/laveenas372-spec/Python/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/laveenas372-spec/Python/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/laveenas372-spec/Python/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/laveenas372-spec/Python/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/laveenas372-spec/Python/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/laveenas372-spec/Python/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/laveenas372-spec/Python/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
