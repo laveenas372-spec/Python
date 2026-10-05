@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/laveenas372-spec/Python/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/laveenas372-spec/Python/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0856-score-of-parentheses](https://github.com/laveenas372-spec/Python/tree/main/0856-score-of-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/laveenas372-spec/Python/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/laveenas372-spec/Python/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/laveenas372-spec/Python/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/laveenas372-spec/Python/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/laveenas372-spec/Python/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0856-score-of-parentheses](https://github.com/laveenas372-spec/Python/tree/main/0856-score-of-parentheses/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/laveenas372-spec/Python/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/laveenas372-spec/Python/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/laveenas372-spec/Python/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/laveenas372-spec/Python/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/laveenas372-spec/Python/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0856-score-of-parentheses](https://github.com/laveenas372-spec/Python/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/laveenas372-spec/Python/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/laveenas372-spec/Python/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
