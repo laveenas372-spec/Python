@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/laveenas372-spec/Python/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/laveenas372-spec/Python/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/laveenas372-spec/Python/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1470-shuffle-the-array](https://github.com/laveenas372-spec/Python/tree/main/1470-shuffle-the-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/laveenas372-spec/Python/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/laveenas372-spec/Python/tree/main/1563-stone-game-v/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/laveenas372-spec/Python/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
